@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PlayingLayout</string>
+    <string name="hint_firstname">Prénom</string>
+    <string name="hint_lastname">Nom de famille</string>
+    <string name="hint_housenum">Maison #</string>
+    <string name="hint_streetname">Nom de rue</string>
+    <string name="hint_subdivision">"Nom du lotissement/du logement "</string>
+    <string name="hint_city">Nom de Ville</string>
+    <string name="hint_country">Nom du pays</string>
+    <string name="hint_notes">Commentaires/Remarques</string>
+    <string name="save_text">Sauvegarder</string>
+    <string name="fullname">Nom et prénom</string>
+    <string name="home_address">Adresse du domicile</string>
+    <string name="notes">Remarques</string>
+    <string name="back"><![CDATA[<<Dos]]></string>
+</resources>

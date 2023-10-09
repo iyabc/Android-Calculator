@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PlayingLayout</string>
+    <string name="hint_firstname">ชื่อจริง</string>
+    <string name="hint_lastname">นามสกุล</string>
+    <string name="hint_housenum">บ้าน #</string>
+    <string name="hint_streetname">ชื่อถนน</string>
+    <string name="hint_subdivision">ชื่อเขตการปกครอง/ที่อยู่อาศัย</string>
+    <string name="hint_city">ชื่อเมือง</string>
+    <string name="hint_country">ชื่อประเทศ</string>
+    <string name="hint_notes">ความคิดเห็น/หมายเหตุ</string>
+    <string name="save_text">บันทึก</string>
+    <string name="fullname">ชื่อเต็ม</string>
+    <string name="home_address">ที่อยู่</string>
+    <string name="notes">หมายเหตุ</string>
+    <string name="back"><![CDATA[<<กลับ]]></string>
+</resources>
